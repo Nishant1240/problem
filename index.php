@@ -7,6 +7,6 @@
     <title>Problem Solving</title>
 </head>
 <body>
-    <h1>Proble Solving</h1>
+    <h1>Proble Solving day 1</h1>
 </body>
 </html>
