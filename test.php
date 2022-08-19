@@ -7,7 +7,7 @@
     <title>Test</title>
 </head>
 <body>
-    <h1>Test version 1</h1>
+    <h1>Test version 2</h1>
     <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias quos quasi alias impedit! Adipisci debitis harum, dolorum totam, architecto, quisquam cumque vitae pariatur obcaecati ab nulla laborum similique sed distinctio?
     </p>
